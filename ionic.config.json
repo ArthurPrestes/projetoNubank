@@ -1,0 +1,7 @@
+{
+  "name": "projetoNubank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
